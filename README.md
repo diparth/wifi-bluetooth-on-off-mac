@@ -5,11 +5,11 @@ Two executables to turn ON or OFF WiFi or Bluetooth in Mac
 
 1. Install [Blueutil](https://formulae.brew.sh/formula/blueutil) using Brew
 
-2. Copy both files content to a new local text file, then remove the **`.txt`** file extension.
+2. Copy both files content to a new separate local text files, then remove the **`.txt`** file extension from both files.
 
    Ex: **`wifi-on`** without an extention.
 
-3. Open Terminal with the same directory and run this command to convert it to an executable file.
+3. Open Terminal with the same directory and run this command for both files to convert it to an executable files.
 
    `chmod +x [file_name]` 
 

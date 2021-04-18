@@ -2,4 +2,3 @@
 networksetup -setairportpower en0 on
 blueutil -p 1
 exit
-
